@@ -6,12 +6,12 @@
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/BaZgaGE
+### https://codepen.io/volodymyrsaienko240/pen/BaZgaGE
 
 ### }
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-3/sites/site-25/Tags-Creator/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-25/Tags-Creator/index.html
 
 ### }
